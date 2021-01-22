@@ -22,7 +22,7 @@
     "@angular/platform-server": "8.0.0",
     "@angular/router": "8.0.0",
     "@nguniversal/module-map-ngfactory-loader": "8.0.0-rc.1",
-    "@progress/kendo-angular-buttons": "^5.3.0",
+    "@progress/kendo-angular-buttons": "^5.5.2",
     "@progress/kendo-angular-common": "^1.0.0",
     "@progress/kendo-angular-l10n": "^2.0.0",
     "@progress/kendo-angular-layout": "^4.2.3",
